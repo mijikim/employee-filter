@@ -1,4 +1,5 @@
-require "employee_filter"
+require 'employee_filter'
+require 'date'
 
 describe EmployeeFilter do
 
